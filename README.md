@@ -2,9 +2,11 @@
 
 ### How to add MCP server in windsurf
 ![alt text](settings.png)
+
 Open windsurf settings and click on Add server
 
 ![alt text](config.png)
+
 Click on playwright and edit or add required config file
 
 ### CLI Options
