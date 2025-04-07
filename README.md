@@ -9,6 +9,9 @@ Open windsurf settings and click on Add server
 
 Click on playwright and edit or add required config file
 
+### How to start MCP server
+npx @playwright/mcp --browser=chrome --executable-path="C:\Program Files\Google\Chrome\Application\chrome.exe" --user-data-dir="C:\Users\{username}\AppData\Local\Google\Chrome\User Data" --headless=false
+
 ### CLI Options
 
 The Playwright MCP server supports the following command-line options:
