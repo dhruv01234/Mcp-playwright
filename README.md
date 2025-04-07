@@ -1,5 +1,8 @@
 ### MCP Playwright
 
+### Install MCP_Playwright
+npm install -g @executeautomation/playwright-mcp-server
+
 ### How to add MCP server in windsurf
 ![alt text](settings.png)
 
